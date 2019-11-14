@@ -1,0 +1,9 @@
+org/stock/web/GenericServices.class
+org/stock/entities/users/Credentials.class
+org/stock/repository/ProduitRepository.class
+org/stock/GestionstockApplication.class
+org/stock/web/ProduitService.class
+org/stock/repository/UtilisateurRepository.class
+org/stock/entities/Produit.class
+org/stock/web/UtilisateurServices.class
+org/stock/entities/users/Utilisateurs.class

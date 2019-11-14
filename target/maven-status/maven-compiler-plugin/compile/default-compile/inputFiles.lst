@@ -1,4 +1,9 @@
-/home/moez/Documents/workspace-sts-3.9.7.RELEASE/gestionstock/src/main/java/web/ProduitService.java
-/home/moez/Documents/workspace-sts-3.9.7.RELEASE/gestionstock/src/main/java/org/stock/entities/Produit.java
-/home/moez/Documents/workspace-sts-3.9.7.RELEASE/gestionstock/src/main/java/org/stock/GestionstockApplication.java
-/home/moez/Documents/workspace-sts-3.9.7.RELEASE/gestionstock/src/main/java/repository/ProduitRepository.java
+/home/mkefi/Bureau/moez/stock-master/src/main/java/org/stock/web/ProduitService.java
+/home/mkefi/Bureau/moez/stock-master/src/main/java/org/stock/repository/UtilisateurRepository.java
+/home/mkefi/Bureau/moez/stock-master/src/main/java/org/stock/GestionstockApplication.java
+/home/mkefi/Bureau/moez/stock-master/src/main/java/org/stock/repository/ProduitRepository.java
+/home/mkefi/Bureau/moez/stock-master/src/main/java/org/stock/web/GenericServices.java
+/home/mkefi/Bureau/moez/stock-master/src/main/java/org/stock/entities/users/Credentials.java
+/home/mkefi/Bureau/moez/stock-master/src/main/java/org/stock/entities/users/Utilisateurs.java
+/home/mkefi/Bureau/moez/stock-master/src/main/java/org/stock/web/UtilisateurServices.java
+/home/mkefi/Bureau/moez/stock-master/src/main/java/org/stock/entities/Produit.java
